@@ -61,6 +61,7 @@ public net/minecraft/server/EnderDragonBattle/getExitPortalShape()Lnet/minecraft
 public net/minecraft/server/EnderDragonBattle/respawnPhase
 public net/minecraft/server/EnderDragonBattle/setRespawnPhase(Lnet/minecraft/server/EnumDragonRespawn;)V
 public net/minecraft/server/EnderDragonBattle/world
+public net/minecraft/server/Entity/dead
 public net/minecraft/server/Entity/fireTicks
 public net/minecraft/server/Entity/getFlag(I)Z
 public net/minecraft/server/Entity/getMaxFireTicks()I
